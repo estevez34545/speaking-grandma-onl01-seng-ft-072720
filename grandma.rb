@@ -1,13 +1,6 @@
 # Write a speak_to_grandma method.
 require "pry"
 
-def speak_to_grandma(phrase)
-  binding.pry
-  
-end
-
- speak_to_grandma("Hello world!")
-
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
